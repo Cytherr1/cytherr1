@@ -4,7 +4,7 @@
     Software Engineering student at BAU
   </li>
   <li>
-    Web Developer
+    Full Stack dev
   </li>
 </p>
 <br>
